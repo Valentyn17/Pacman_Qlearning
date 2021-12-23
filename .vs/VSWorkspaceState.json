@@ -1,8 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\layouts",
-    "\\test_cases",
     "\\test_cases\\q4"
   ],
   "SelectedNode": "\\qlearningAgents.py",
